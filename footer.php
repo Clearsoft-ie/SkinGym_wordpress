@@ -137,12 +137,12 @@
                                 <div class="row">
                                     <div class="col-md-6">
                                         <a href="http://www.ambersprings.ie/" target="_blank">
-                                            <img src="assets/images/logos/amber-springs.png" class="img-fluid" />
+                                            <img src="<?php echo get_template_directory_uri() ;?>/assets/images/logos/amber-springs.png" class="img-fluid" />
                                         </a>
                                     </div>
                                     <div class="col-md-6">
                                         <a href="https://www.ashdownparkhotel.com" target="_blank">
-                                            <img src="assets/images/logos/ashdown-park.png" class="img-fluid" />
+                                            <img src="<?php echo get_template_directory_uri() ;?>/assets/images/logos/ashdown-park.png" class="img-fluid" />
                                         </a>
                                     </div>
                                 </div>
