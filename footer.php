@@ -100,12 +100,12 @@
                             </form>
                             <!-- /Newsletter Form -->
                             <!-- Social Icons -->
-                            <div class="mt-20">
+                            <div class="mt-20 clearfix">
                                 <a href="https://www.facebook.com/SkinGymGorey/" class="social-icon social-icon-border social-facebook float-left" data-toggle="tooltip" data-placement="top" title="Facebook" target="_blank">
                                     <i class="icon-facebook"></i>
                                     <i class="icon-facebook"></i>
                                 </a>
-                                <a href="https://www.instagram.com/explore/locations/1571818166456440/skin-gym-gorey/" class="social-icon social-icon-sm social-icon-transparent social-instagram float-left" data-toggle="tooltip" data-placement="top" title="Instagram" target="_blank">
+                                <a href="https://www.instagram.com/explore/locations/1571818166456440/skin-gym-gorey/" class="social-icon social-icon-border social-instagram float-left" data-toggle="tooltip" data-placement="top" title="Instagram" target="_blank">
                                     <i class="icon-instagram"></i>
                                     <i class="icon-instagram"></i>
                                 </a>                                
