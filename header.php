@@ -21,7 +21,10 @@
 		<link href="<?php echo get_template_directory_uri() ;?>/assets/css/header-1.css" rel="stylesheet" type="text/css" />
 		<link href="<?php echo get_template_directory_uri() ;?>/assets/css/color_scheme/orange.css" rel="stylesheet" type="text/css" id="color_scheme" />
         <!-- Before After Slider -->
-        <link rel="stylesheet" href="<?php echo get_template_directory_uri() ;?>/assets/css/cocoen.min.css" />
+		<link rel="stylesheet" href="<?php echo get_template_directory_uri() ;?>/assets/css/cocoen.min.css" />
+		
+		<!-- Custom CSS -->
+		<link href="<?php echo get_template_directory_uri() ;?>/assets/css/custom.css" rel="stylesheet" type="text/css" />
 
         <script src="https://www.google.com/recaptcha/api.js" async defer></script>
         <?php wp_head(); ?>
