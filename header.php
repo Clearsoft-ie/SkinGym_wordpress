@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html dir="ltr" lang="en">
 	<head>
 		<meta charset="utf-8" />
 		<title>Skin Gym | Love the skin you are in</title>
